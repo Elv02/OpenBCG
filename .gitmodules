@@ -1,0 +1,3 @@
+[submodule "OpenBCG-API"]
+	path = OpenBCG-API
+	url = https://github.com/Elv02/OpenBCG-API
